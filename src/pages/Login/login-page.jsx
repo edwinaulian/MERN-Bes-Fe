@@ -2,10 +2,11 @@ import React from 'react';
 import LoginPage from '../../components/login';
 
 const Logins = () => {
+
     return (
         <div>
             {/* Page Login */}
-            <LoginPage />
+            <LoginPage/>
         </div>
     )
 }
